@@ -1,0 +1,2 @@
+# Deep-learning-fundus-image-Analysis-for-Early-Detection-of-Diabetic-Retinopathy
+This project implements a deep learning–based approach for early detection of diabetic retinopathy using retinal fundus images. A Convolutional Neural Network (CNN) is trained to automatically extract critical retinal features such as microaneurysms, hemorrhages, and exudates, enabling accurate classification of diabetic retinopathy stages.
