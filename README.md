@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DEEP-LEARNING-FUNDUS-IMAGE-ANALYSIS-FOR-EARLY-DETECTION-OF-DIABETIC-RETINOPATHY
 The main causing of visual loss in the world is diabetic retinopathy. In the initial stages of this 
 disease, the retinal microvasculature is affected by several abnormalities in the eye fundus such 
@@ -36,3 +37,7 @@ achieved accuracy of 0.9867 and AUC of 0.9933. Experimental result shows that pr
 tuned CNN performs significantly better than the existing methods. Use of CNN takes away the
 burden of designing the image features and on the other hand genetic algorithm based methodology
 automates the design of CNN hyper-parameters.
+=======
+# Deep-learning-fundus-image-Analysis-for-Early-Detection-of-Diabetic-Retinopathy
+This project implements a deep learning–based approach for early detection of diabetic retinopathy using retinal fundus images. A Convolutional Neural Network (CNN) is trained to automatically extract critical retinal features such as microaneurysms, hemorrhages, and exudates, enabling accurate classification of diabetic retinopathy stages.
+>>>>>>> 6e5fd4228ec935de2367f87c0d139753eb591f10
